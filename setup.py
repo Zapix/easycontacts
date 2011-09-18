@@ -6,7 +6,7 @@ setup(
     keywords='django, application, contacts',
     author='Aleksandr Aibulatov',
     author_email='zap.aibulatov@gmail.com',
-    url='https://github.com/Zapix/mixins',
+    url='https://github.com/Zapix/easycontacts',
     license='BSD',
     package_dir={'easycontacts': 'easycontacts'},
     include_package_data=True,
