@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='django-mixins',
+    name='django-easecontacts',
     version='0.1',
     keywords='django, application, contacts',
     author='Aleksandr Aibulatov',
